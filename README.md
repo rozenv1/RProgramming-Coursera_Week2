@@ -1,5 +1,5 @@
 # RProgramming-Coursera_Week2
-Control Structures, Functions, Scoping Rules. Assignment is Air Pollution Monitoring data set assignment.
+Control Structures, Functions, Scoping Rules. Assignment is Air Pollution Monitoring data set.
 
 This week is all about functions and about controlling the flow of an R program. We start with control structures (like if-else, and for loops) and then move on to writing functions. Next, we discuss the lexical scoping features of the language and how they can be used in interesting ways, particularly for statistical applications.
 
