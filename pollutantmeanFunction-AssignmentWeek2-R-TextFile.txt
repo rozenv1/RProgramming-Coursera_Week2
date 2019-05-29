@@ -1,5 +1,6 @@
 ## Air Pollution Monitoring dataset. Week 2 Coursera RProgramming Assignment
 setwd("C:/Users/Office/Documents/RCourse/Week2/rprog_data_specdata/")
+## setwd("M:/Documents/RCourse/Week2/rprog_data_specdata/")
 
 ## The data is provided in a zip file, which contains 332 comma-separated-value (CSV) files containing pollution 
 ## monitoring data for fine particulate matter (PM) air pollution at 332 locations in the US. 
@@ -50,5 +51,5 @@ pollutantmean<-function(directory, pollutant, id = 1:332){
         }
         mean(values, na.rm=TRUE)
 }
-## Another Sample Output
-pollutantmean("/Users/Office/Documents/RCourse/Week2/rprog_data_specdata/specdata/", "sulfate")
+## Another Sample Output for home PC only
+# pollutantmean("/Users/Office/Documents/RCourse/Week2/rprog_data_specdata/specdata/", "sulfate")
