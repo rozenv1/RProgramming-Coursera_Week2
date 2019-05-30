@@ -1,5 +1,6 @@
 ## Air Pollution Monitoring dataset. Week 2 Coursera RProgramming Assignment
-setwd("C:/Users/Office/Documents/RCourse/Week2/rprog_data_specdata/")
+## setwd("C:/Users/Office/Documents/RCourse/Week2/rprog_data_specdata/")
+setwd("M:/Documents/RCourse/Week2/rprog_data_specdata/")
 
 ###############################################################################
 ## FUNCTION DESCRIPTION:correlation1 is a a function that takes a directory of data files 
